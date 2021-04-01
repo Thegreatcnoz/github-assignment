@@ -1,0 +1,1 @@
+console.log(This is my class assignment for Basic Git training)
